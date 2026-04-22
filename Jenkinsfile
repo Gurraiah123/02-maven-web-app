@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE_NAME = "ashokit-html-app"
         CONTAINER_NAME = "ashokit-container"
-        PORT = "8080"
+        PORT = "8081"
     }
 
     stages {
